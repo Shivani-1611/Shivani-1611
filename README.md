@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivani-1611
-- 👀 I’m interested in Data Science and Developement
-- 🌱 I’m currently learning Angular JS
+- 👀 I’m interested in Web Development, Angular and Data Science
+- 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on New Projects, tools and technologies
 - 📫 Reach me at shivanisharma1611@gmail.com
 
